@@ -1,9 +1,9 @@
 var programming_languages = [
-  "BIAS",
-  "PREJUDICE",
-  "DISCRIMINATION",
-  "STEREOTYPE",
-  "JUDGMENT",
+  "GIGALMESH",
+  "ENKIDU",
+  "URUK",
+  "IMMORTALITY",
+  "FLOOD",
 ];
 
 let answer = "";
